@@ -40,7 +40,7 @@ p{
  font-size:15px;
  padding-bottom:30px;
  text-align:center;
- font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',serif;
+ font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体','ヒラギノ明朝 ProN','Hiragino Mincho ProN',serif;
 }
 
 @media(max-width:670px){
