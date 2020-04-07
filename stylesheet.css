@@ -43,3 +43,8 @@ p{
  font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
 }
 
+@media(max-width:670px){
+ p{
+  font-size:10px;
+ }
+}
