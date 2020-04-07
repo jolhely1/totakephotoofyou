@@ -1,0 +1,45 @@
+body{
+ padding:10%;
+ background-color:white;
+}
+
+.mail{
+ padding:0px 10% 50px;
+ 
+ background-color:white;
+ 
+}
+.border {
+content:"";
+display:;
+padding:1px;
+background: linear-gradient(40deg, white, gray, white);
+border-radius:2px;
+ 
+ 
+ 
+}
+.icon{
+ padding:100px 0px 100px;
+ text-align:center;
+ font-size:;
+ 
+}
+
+.footer-icon{
+ padding:100px 50px 100px;
+ text-align:center;
+ font-size:;
+ float:;
+}
+.clear{
+ clear:right;
+}
+
+p{
+ font-size:15px;
+ padding-bottom:30px;
+ text-align:center;
+ font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
+}
+
